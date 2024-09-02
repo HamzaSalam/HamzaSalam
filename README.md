@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamzasalam)](https://github.com/ryo-ma/github-profile-trophy)
 
 Connect with me:
-https://www.facebook.com/
+
