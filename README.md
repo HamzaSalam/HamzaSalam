@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="45" height="45" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" height="45"/>   
 </p>
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaslam)](https://github.com/anuraghazra/github-readme-stats)
