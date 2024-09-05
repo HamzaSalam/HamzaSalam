@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend and Mern Stack Developer with 1.5 years of expericen . I have worked with<br>react js , next js , react native ,javaScript , python java and node js <br>
+I am a frontend and Mern Stack Developer. I have worked with<br>react js , next js , react native ,javaScript , python java and node js <br>
 
 
 ## 🌐 Socials:
